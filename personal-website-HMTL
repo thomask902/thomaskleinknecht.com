@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thomas Kleinknecht</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #007bff;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Thomas Kleinknecht</h1>
+        <p>Email: <a href="mailto:tkleinknecht@uwaterloo.ca">tkleinknecht@uwaterloo.ca</a></p>
+        <p>Phone: (902) 817-1449</p>
+        <h2>About Me</h2>
+        <p>From Halifax, Nova Scotia</p>
+        <p>Management Engineering Student</p>
+        <p>University of Waterloo</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/thomaskleinknecht">linkedin.com/in/thomaskleinknecht</a></p>
+        <p>GitHub: <a href="https://github.com/thomask902">github.com/thomask902</a></p>
+    </div>
+</body>
+</html>
